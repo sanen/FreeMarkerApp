@@ -1,0 +1,24 @@
+<#--  HTML Ouput -->
+<html>
+
+   <head>
+
+      <title>Page for ${pet}!</title>
+
+   </head>
+
+   <body>
+
+      ${pet} does ${number} little hops :)
+
+   </body>
+
+</html>
+
+
+
+
+
+
+
+
